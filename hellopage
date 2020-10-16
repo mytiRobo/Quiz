@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>hi page</title>
+</head>
+<body>
+<p>hello! this was fun isn't it? </p>
+<button onclick="prompt("okay.Bbye!")">my response to your answer is
+</button>
+</body>
+</html>
